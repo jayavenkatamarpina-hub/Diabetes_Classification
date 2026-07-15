@@ -16,5 +16,5 @@ Logistic Regression was selected as the best model, highest F1-score for the dia
 
 ## Files
 
-- `Diabetes_Classification_5Models.ipynb` — the notebook
+- `Diabetes_Classification.ipynb` — the notebook
 - `diabetes_prediction_dataset.csv` — the dataset
